@@ -7,7 +7,7 @@ alert('brincadeira kkkkkk a surpresa vai ser agr, só aperta mais uma vez')
 alert('só mais umazinha 😜')
 
 const img = document.querySelector('#foto')
-img.src = '/images/cachorro.jpg'
+img.src = './images/cachorro.jpg'
 
 const titu = document.querySelector('#title')
 titu.style.display = 'block'
